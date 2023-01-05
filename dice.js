@@ -12,40 +12,40 @@ console.log(b)
 
 
 if(a === 0){
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice1.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice1.png");
 }
 if(a === 1){
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice2.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice2.png");
 }
 if(a === 2){
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice3.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice3.png");
 }
 if(a === 3){     
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice4.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice4.png");
 }
 if(a === 4){
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice5.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice5.png");
 }
 if(a === 5){
-    document.querySelector(".dice .img1").setAttribute("src","./images/dice6.png");
+    document.querySelector(".dice .img1").setAttribute("src","./dice6.png");
 }
 if(b === 0){
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice1.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice1.png");
 }
 if(b === 1){
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice2.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice2.png");
 }
 if(b === 2){
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice3.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice3.png");
 }
 if(b === 3){     
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice4.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice4.png");
 }
 if(b === 4){
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice5.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice5.png");
 }
 if(b === 5){
-    document.querySelector(".dice2 .img2").setAttribute("src","./images/dice6.png");
+    document.querySelector(".dice2 .img2").setAttribute("src","./dice6.png");
 }
 
 
